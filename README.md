@@ -12,6 +12,8 @@
 
 **cd desktop** (go to the file path where you downloaded the tool with the "cd" command)
 
+**cd AutoZoomBot-main.py** (after extracted the zip)
+
 **python zoombot.py**
  
 
