@@ -5,4 +5,4 @@
 
 
 # Usage
-asdasd /n sıhgfısf
+asdasd/nsıhgfısf
