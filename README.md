@@ -4,5 +4,9 @@
 **AutoZoomBot is a tool that allows you to automatically attend your classes on time.**
 
 
-# Download
- Click green "Code" button and than download zip file, after downloading, extract file
+# Usage
+**Open CMD**
+
+· pip install pyautogui
+· cd desktop
+· python zoombot.py
