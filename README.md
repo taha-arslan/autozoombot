@@ -2,3 +2,7 @@
 
 # What Is AutoZoomBot
 AutoZoomBot is a tool that allows you to automatically attend your classes on time.
+
+
+# Download
+ Click green "Code" button and than download zip file, after downloading, extract it
