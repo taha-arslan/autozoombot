@@ -6,4 +6,4 @@
 
 # Usage
 
-asd \n asdgas
+-asdasdad-
