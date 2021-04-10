@@ -9,6 +9,7 @@ def join(id, password):
     subprocess.call(APPDATA + '\\Zoom\\bin\\Zoom.exe')
     while True:
         giriş = pyautogui.locateOnScreen('joinbuton.png')
+        giriş = pyautogui.locateOnScreen('joinmeeting2.png')
         if giriş != None:
             pyautogui.click(giriş)
             break
@@ -318,8 +319,9 @@ print("")
 print(" 1. English")
 print(" 2. Türkçe")
 print("")
-
 dil = input(" Choose A Language: ").strip()
+
+
 
 
 if dil == "1":
@@ -347,7 +349,7 @@ if dil == "1":
         print("                                                                                | GitHub : https://github.com/taha-arslan |")
         print("                                                                                |-----------------------------------------|")
         print("")
-        meeting = input(" Enter Your Meeting ID (Without space): ").strip()
+        meeting = input(" Enter Your Meeting ID: ").strip()
         time.sleep(0.5)
         if len(meeting) == 10:
             os.system('color 3')
@@ -439,7 +441,7 @@ elif dil == "2":
         print("                                                                                |                                         |")
         print("                                                                                | GitHub : https://github.com/taha-arslan |")
         print("                                                                                |-----------------------------------------|")
-        meeting = input(" Toplantı ID'nizi Giriniz (Boşluk bırakmadan): ").strip()
+        meeting = input(" Toplantı ID'nizi Giriniz: ").strip()
         time.sleep(0.5)
         if len(meeting) == 10:
             os.system('color 3')
