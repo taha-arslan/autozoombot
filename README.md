@@ -5,8 +5,4 @@
 
 
 # Usage
-**Open CMD**
-
-· pip install pyautogui
-· cd desktop
-· python zoombot.py
+asdasd /n sıhgfısf
