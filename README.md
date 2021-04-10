@@ -6,4 +6,4 @@
 
 # Usage
 
-asd\nasdgas
+asd \n asdgas
