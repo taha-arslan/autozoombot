@@ -9,7 +9,6 @@ def join(id, password):
     subprocess.call(APPDATA + '\\Zoom\\bin\\Zoom.exe')
     while True:
         giriş = pyautogui.locateOnScreen('joinbuton.png')
-        giriş = pyautogui.locateOnScreen('joinmeeting2.png')
         if giriş != None:
             pyautogui.click(giriş)
             break
