@@ -6,6 +6,8 @@
 
 # Usage
 
--asdasdad-
+pip install pyautogui
 
-sfsf
+cd (file path)
+
+python zoombot.py
