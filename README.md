@@ -6,13 +6,13 @@
 
 # Usage
 
-Open command prompt, type;
+**Open command prompt and type:**
 
-pip install pyautogui (if you didn't download pip or got error you can install from here https://www.liquidweb.com/kb/install-pip-windows/)
+**pip install pyautogui** (if you didn't download pip or got error you can install from here https://www.liquidweb.com/kb/install-pip-windows/)
 
-cd desktop (go to the file path where you downloaded the tool with the "cd" command)
+**cd desktop** (go to the file path where you downloaded the tool with the "cd" command)
 
-python zoombot.py
+**python zoombot.py**
  
 
 
