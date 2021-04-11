@@ -318,12 +318,12 @@ print("")
 print(" 1. English")
 print(" 2. Türkçe")
 print("")
+
 dil = input(" Choose A Language: ").strip()
 
 
-
-
 if dil == "1":
+    #English
     time.sleep(0.5)
     while True:
         os.system('cls')    
@@ -348,7 +348,7 @@ if dil == "1":
         print("                                                                                | GitHub : https://github.com/taha-arslan |")
         print("                                                                                |-----------------------------------------|")
         print("")
-        meeting = input(" Enter Your Meeting ID: ").strip()
+        meeting = input(" Enter Your Meeting ID (Without space): ").strip()
         time.sleep(0.5)
         if len(meeting) == 10:
             os.system('color 3')
@@ -440,7 +440,7 @@ elif dil == "2":
         print("                                                                                |                                         |")
         print("                                                                                | GitHub : https://github.com/taha-arslan |")
         print("                                                                                |-----------------------------------------|")
-        meeting = input(" Toplantı ID'nizi Giriniz: ").strip()
+        meeting = input(" Toplantı ID'nizi Giriniz (Boşluk bırakmadan): ").strip()
         time.sleep(0.5)
         if len(meeting) == 10:
             os.system('color 3')
