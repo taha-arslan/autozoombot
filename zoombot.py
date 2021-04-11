@@ -507,8 +507,4 @@ elif dil == "2":
     print(" Zoom'a Yönlendiriliyorsunuz.")
     time.sleep(0.5)
 
-    join(meeting, password)
-else:
-    print("")
-    print(" Böyle bir dil desteği yok.")
-os.system('exit')
+join(meeting, password)
