@@ -8,6 +8,7 @@ from datetime import datetime
 def join(id, password):
     subprocess.call(APPDATA + '\\Zoom\\bin\\Zoom.exe')
     while True:
+        time.sleep(2)
         giriş = pyautogui.locateOnScreen('joinbuton.png')
         if giriş != None:
             pyautogui.click(giriş)
