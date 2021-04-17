@@ -443,7 +443,7 @@ elif dil == "2":
         print("                                                                                |-----------------------------------------|")
         meeting = input(" Toplantı ID'nizi Giriniz: ").strip()
         time.sleep(0.5)
-        if len(meeting) == 10:
+        if len(meeting) == 10 or 11:
             os.system('color 3')
             break
         else:
