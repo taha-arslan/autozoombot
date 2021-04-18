@@ -8,14 +8,14 @@
 
 **Open command prompt and type:**
 
-**pip install -r requirements.txt**  
-(if you didn't download pip or got error you can install from here https://www.liquidweb.com/kb/install-pip-windows/)
-
 **cd desktop** 
 (go to the file path where you downloaded the tool with the "cd" command)
 
 **cd AutoZoomBot-main.py** 
 (after extracted the zip)
+
+**pip install -r requirements.txt**  
+(if you didn't download pip or got error you can install from here https://www.liquidweb.com/kb/install-pip-windows/)
 
 **python zoombot.py**
  
