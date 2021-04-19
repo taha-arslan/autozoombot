@@ -31,7 +31,7 @@ Make sure to close all windows and free up the desktop
 
 Time : hh:mm:ss (Example: 08:35:00)
 
-Meeting ID : 1234567890 (Max 10 characters)
+Meeting ID : 1234567890 (Max lenght 10 or 11 characters)
 
 Meeting Password : 1234 (Example)
 
