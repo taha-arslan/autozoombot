@@ -11,7 +11,7 @@
 **cd desktop** 
 (go to the file path where you downloaded the tool with the "cd" command)
 
-**cd AutoZoomBot-main.py** 
+**cd AutoZoomBot-main** 
 (after extracted the zip)
 
 **pip install -r requirements.txt**  
