@@ -8,7 +8,7 @@
 
 **Open command prompt and type:**
 
-**cd desktop** 
+**cd Desktop** 
 (go to the file path where you downloaded the tool with the "cd" command)
 
 **cd autozoombot-main** 
